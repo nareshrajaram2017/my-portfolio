@@ -1,2 +1,3 @@
-# my-portfolio
-My Professional Portfolio
+# Naresh Rajaram's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
